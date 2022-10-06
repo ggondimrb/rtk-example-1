@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "opa",
+      "author": "opa",
+      "id": 99,
+      "checked": false
+    },
+    {
+      "title": "lalalal",
+      "author": "opa opa",
+      "id": 56,
+      "checked": true
+    },
+    {
+      "title": "aaaa",
+      "author": "aaa",
+      "id": 6,
+      "checked": true
+    },
+    {
+      "title": "bbbb",
+      "author": "bbb",
+      "id": 52,
+      "checked": false
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
